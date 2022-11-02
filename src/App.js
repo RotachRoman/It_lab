@@ -3,8 +3,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import img from './images/img.png';
 import img_1 from './images/img_1.png';
 import img_2 from './images/img_2.png';
-import pka from './CPT/IT_LR3_Torchinskii_IDM-22-01.pka';
-import docx from './CPT/IT_LR3_Torchinskii_IDM-22-01.docx';
+import pka from './CPT/IT_LR3_Rotach_IDM-22-01.pka';
+import docx from './CPT/IT_LR3_Rotach_IDM-22-01.docx';
 
 function App() {
   return (
@@ -34,11 +34,11 @@ function App() {
                           </tr>
                           <tr>
                               <td>Исходный код</td>
-                              <td><a target="_blank" href="https://github.com/tormaks/it-labs">/tormaks/it-labs</a></td>
+                              <td><a target="_blank" href="https://github.com/RotachRoman/It_lab">/RotachRoman/it-lab</a></td>
                           </tr>
                           <tr>
                               <td>Репозиторий</td>
-                              <td><a target="_blank" href="https://github.com/tormaks/it-labs">/tormaks/it-labs</a></td>
+                              <td><a target="_blank" href="https://github.com/RotachRoman/It_lab">/RotachRoman/it-lab</a></td>
                           </tr>
                           <tr>
                               <td colSpan={2} align="center">Описание</td>
@@ -98,11 +98,11 @@ function App() {
                           </tr>
                           <tr>
                               <td>Сценарий CPT</td>
-                              <td><a href={pka}>CPT/IT_LR3_Torchinskii_IDM-22-01.pka</a></td>
+                              <td><a href={pka}>CPT/IT_LR3_Rotach_IDM-22-01.pka</a></td>
                           </tr>
                           <tr>
                               <td>Отчет</td>
-                              <td><a href={docx}>CPT/IT_LR3_Torchinskii_IDM-22-01.docx</a></td>
+                              <td><a href={docx}>CPT/IT_LR3_Rotach_IDM-22-01.docx</a></td>
                           </tr>
                           <tr>
                               <td colSpan={2} align="center">Описание</td>

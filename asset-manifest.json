@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/It_lab/static/css/main.b126ec2c.css",
+    "main.js": "/It_lab/static/js/main.905e58a4.js",
+    "static/media/IT_LR3_Rotach_IDM-22-01.pka": "/It_lab/static/media/IT_LR3_Rotach_IDM-22-01.759f0bf232c700651517.pka",
+    "static/media/IT_LR3_Rotach_IDM-22-01.docx": "/It_lab/static/media/IT_LR3_Rotach_IDM-22-01.9586b4890d2b8fffe95f.docx",
+    "static/media/img_1.png": "/It_lab/static/media/img_1.6b28b7032d9201838e84.png",
+    "static/media/img.png": "/It_lab/static/media/img.587933e275725899116f.png",
+    "static/media/img_2.png": "/It_lab/static/media/img_2.3795d2903021a0d2de2c.png",
+    "index.html": "/It_lab/index.html",
+    "main.b126ec2c.css.map": "/It_lab/static/css/main.b126ec2c.css.map",
+    "main.905e58a4.js.map": "/It_lab/static/js/main.905e58a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b126ec2c.css",
+    "static/js/main.905e58a4.js"
+  ]
+}

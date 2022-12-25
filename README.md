@@ -98,3 +98,7 @@
 
 Ответ на экзаменационный билет доступен по ссылке:
 [билет №24](https://github.com/stankin/inet-2022/wiki/exam24)
+
+Был дан ответ на два вопроса в билете: [Разница ревизий](https://github.com/stankin/inet-2022/wiki/exam24/_compare/0d2e14957f0e7a0348d783ea1c687a8af1025e94...fa947bacb195918071ac55bcd73a66e144c9b0ef).
+
+Были добавлены изменения: [Разница ревизий](https://github.com/stankin/inet-2022/wiki/exam24/_compare/6d1a555ca59a9dc540509c8fd8606bf852f13b06...123c240416a045253b64eb810a7ec59ed9b383b1).
